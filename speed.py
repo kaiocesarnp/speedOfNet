@@ -1,3 +1,5 @@
+# Speedtest-cli, utilitário de linha de comando para testar a velocidade da internet
+
 import subprocess
 
 def test_speed():
